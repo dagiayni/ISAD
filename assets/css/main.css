@@ -86,6 +86,9 @@ h6 {
   color: var(--heading-color);
   font-family: var(--heading-font);
 }
+.greencol{
+  color: var(--accent-color);
+}
 
 /* PHP Email Form Messages
 ------------------------------*/
